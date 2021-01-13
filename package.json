@@ -22,13 +22,17 @@
   "auto": {
     "baseBranch": "main",
     "plugins": [
-      "npm",
+      [
+        "npm",
+        {
+          "publishConfig": {
+            "registry": "https://registry.npmjs.org/",
+            "access": "public"
+          }
+        }
+      ],
       "all-contributors",
       "conventional-commits"
-    ],
-    "publishConfig": {
-      "registry": "https://registry.npmjs.org/",
-      "access": "public"
-    }
+    ]
   }
 }
