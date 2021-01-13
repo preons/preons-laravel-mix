@@ -11,6 +11,9 @@
   "devDependencies": {
     "auto": "^10.6.1"
   },
+  "files": [
+    "index.js"
+  ],
   "auto": {
     "plugins": [
       "npm",
