@@ -1,0 +1,22 @@
+{
+  "name": "preons-laravel-mix",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:preons/preons-laravel-mix.git",
+  "author": "Gemma Black <gblackuk@googlemail.com>",
+  "dependencies": {
+    "laravel-mix": "^6.0.9"
+  },
+  "devDependencies": {
+    "auto": "^10.6.1"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "all-contributors",
+      "conventional-commits",
+      "released"
+    ]
+  }
+}
