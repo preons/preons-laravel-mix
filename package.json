@@ -5,6 +5,9 @@
   "license": "MIT",
   "repository": "git@github.com:preons/preons-laravel-mix.git",
   "author": "Gemma Black <gblackuk@googlemail.com>",
+  "scripts": {
+    "release": "auto shipit"
+  },
   "dependencies": {
     "laravel-mix": "^6.0.9"
   },
