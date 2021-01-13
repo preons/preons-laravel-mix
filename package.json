@@ -23,7 +23,7 @@
     "plugins": [
       "npm",
       "all-contributors",
-      "conventional-commits",
+      "conventional-commits"
     ]
   }
 }
