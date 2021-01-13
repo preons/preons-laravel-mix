@@ -1,6 +1,6 @@
 {
   "name": "preons-laravel-mix",
-  "version": "0.0.1",
+  "version": "0.0.2-canary.26d9d22.0",
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:preons/preons-laravel-mix.git",
@@ -24,7 +24,6 @@
       "npm",
       "all-contributors",
       "conventional-commits",
-      "released"
     ]
   }
 }
