@@ -12,6 +12,8 @@
     "laravel-mix": "^6.0.9"
   },
   "devDependencies": {
+    "@auto-it/all-contributors": "^10.6.1",
+    "@auto-it/conventional-commits": "^10.6.1",
     "auto": "^10.6.1"
   },
   "files": [
