@@ -20,6 +20,7 @@
     "index.js"
   ],
   "auto": {
+    "baseBranch": "main",
     "plugins": [
       "npm",
       "all-contributors",
