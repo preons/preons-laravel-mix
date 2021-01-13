@@ -1,6 +1,6 @@
 {
   "name": "preons-laravel-mix",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:preons/preons-laravel-mix.git",
