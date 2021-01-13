@@ -25,6 +25,10 @@
       "npm",
       "all-contributors",
       "conventional-commits"
-    ]
+    ],
+    "publishConfig": {
+      "registry": "https://registry.npmjs.org/",
+      "access": "public"
+    }
   }
 }
