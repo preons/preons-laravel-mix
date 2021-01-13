@@ -2,6 +2,26 @@
 
 #### ⚠️ Pushed to `main`
 
+- npm config auto (gblackuk@googlemail.com)
+- auto intuit publishConfig (gblackuk@googlemail.com)
+- change auto base branch from master to main (gblackuk@googlemail.com)
+- all contributors auto intuits (gblackuk@googlemail.com)
+- package jsoon fix (gblackuk@googlemail.com)
+- remove released from auto (gblackuk@googlemail.com)
+- auto intuit plugins (gblackuk@googlemail.com)
+- auto release npm package script (gblackuk@googlemail.com)
+- npm inclusion list (gblackuk@googlemail.com)
+
+#### Authors: 1
+
+- Gemma Black ([@gemmadlou](https://github.com/gemmadlou))
+
+---
+
+# v0.0.2 (Wed Jan 13 2021)
+
+#### ⚠️ Pushed to `main`
+
 - change auto base branch from master to main ([@gemmadlou](https://github.com/gemmadlou))
 - all contributors auto intuits ([@gemmadlou](https://github.com/gemmadlou))
 - package jsoon fix ([@gemmadlou](https://github.com/gemmadlou))
